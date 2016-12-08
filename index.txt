@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<header>
+Ryan Short
+</header>
+
+<body>
+  <div id="banner">
+   <img src="http://www.dukerad.radsq.com/images/9/9c/Scanslated2.png" width="800">
+     </div>
+  <div id="body">Your Scans. Your Health. Now, in <b><em>your</em></b> language.
+    </div>
+  <p>
+  <div>
+  <ul>
+  <li><a class="active" href="#what">What is Scanslated?</a></li>
+  <li><a href="#team">Team</a></li>
+  <li><a href="#contact">Contact</a></li>
+    </ul></div>
+<div class="greeting"><h1>What is <img src="http://www.dukerad.radsq.com/images/9/9c/Scanslated2.png" width="300"> ?<h1></div>
+<div class="answer"><h3>The future of patient-centered radiology reporting.<h3>
+  <p>
+<div class="question"><a name="why"></a><h2>Why did we do the mammogram?<h2></div>
+<p>
+<div class="answer"><h3>To screen for breast cancer.<h3></div>
+<p>
+<div class="question"><a name="find"></a><h2>What did we find?<h3></div>
+<p>
+<div class="answer"><img src="http://www.dukerad.radsq.com/images/9/9c/Scanslated2.png" width=600px></div>
+<p>
+  <div class="question"><a name="mean"></a><h2>So what does this mean?<h2></div>
+<p>
+    <div class="conclusions"></div>
+<p>
+    <div class="question"><a name="next"></a><h2>What's next?<h2></div>
+<p>
+<div class="answer"><h3>The next step is to schedule an appointment to return to clinic to get a diagnostic mammogram<h3></div>
+  
+<div id=schedule>
+  <a href="https://radiology.duke.edu/patient-care/specialized-services/mammography/">SCHEDULE NEXT APPOINTMENT</a>
+ </div>
+</body>
+</html>
